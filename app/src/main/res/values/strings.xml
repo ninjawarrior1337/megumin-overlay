@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Megumin</string>
+    <string name="preference_file_key">megumin</string>
+</resources>
